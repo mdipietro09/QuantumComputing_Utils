@@ -2,11 +2,13 @@
 
 In this repo you can find useful examples of Quantum Mechanics and Quantum Machine Algorithms.
 
+<br>
+
 - <ins>**[Quantum Mechanics](https://github.com/mdipietro09/QuantumComputing_Utils/blob/master/example_quantum_mechanics.ipynb)**</ins>
 
 	* Qubits and Circuits
 
-		<img src="_docs/qubit.png" width="150" height="150">
+		<img src="_docs/qubit.png" width="200" height="200">
 
 <br>
 
@@ -22,4 +24,4 @@ In this repo you can find useful examples of Quantum Mechanics and Quantum Machi
 
 	* Classification and Regression
 
-		<img src="_docs/qml.png" width="300" height="300">
+		<img src="_docs/qml.png" width="400" height="400">
