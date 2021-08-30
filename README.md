@@ -6,7 +6,7 @@ In this repo you can find useful examples of Quantum Mechanics and Quantum Machi
 
 	* Qubits and Circuits
 
-		<img src="_docs/qubit.png" width="200" height="200">
+		<img src="_docs/qubit.png" width="150" height="150">
 
 <br>
 
@@ -14,7 +14,7 @@ In this repo you can find useful examples of Quantum Mechanics and Quantum Machi
 
 	* Cybersecurity
 
-		<img src="_docs/circuit.png" width="200" height="200">
+		<img src="_docs/circuit.png" width="600" height="300">
 
 <br>
 
@@ -22,4 +22,4 @@ In this repo you can find useful examples of Quantum Mechanics and Quantum Machi
 
 	* Classification and Regression
 
-		<img src="_docs/qml.png" width="200" height="200">
+		<img src="_docs/qml.png" width="300" height="300">
