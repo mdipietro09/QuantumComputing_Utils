@@ -1,11 +1,12 @@
 # Quantum Computing with Python
 
-In this repo you can find useful examples of Quantum Mechanics and Quantum Machine Algorithms.\
+In this repo you can find useful examples of Quantum Mechanics and Quantum Machine Algorithms.
 
 
 
 - <ins>**[Quantum Mechanics](https://github.com/mdipietro09/QuantumComputing_Utils/blob/master/example_quantum_mechanics.ipynb)**</ins>
-	
+	* Analysis
+
 		<img src="_docs/qubit.PNG" width="600" height="200">
 
 - <ins>**[Quantum Algorithms](https://github.com/mdipietro09/QuantumComputing_Utils/blob/master/example_quantum_algorithms.ipynb)**</ins>
