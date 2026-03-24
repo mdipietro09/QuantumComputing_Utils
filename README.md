@@ -2,17 +2,13 @@
 
 <br>
 
-- <ins>**[Quantum Mechanics]**</ins>
-
-	* Qubits and Circuits
+- <ins>**[Qubits]**</ins>
 
 		<img src="_docs/qubit.png" width="200" height="200">
 
 <br>
 
-- <ins>**[Quantum Algorithms]**</ins>
-
-	* Cybersecurity
+- <ins>**[Circuits]**</ins>
 
 		<img src="_docs/circuit.png" width="600" height="300">
 
